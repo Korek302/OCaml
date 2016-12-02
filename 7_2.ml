@@ -17,7 +17,7 @@ let rec english(bt, polish) =
 
 let interface()=
 	let rec temp(dictionary)=
-		print_string("1. Dodaj slowo do slownika\n2. Wyszukaj slowo w slowniku\n");
+		print_string("1. Dodaj slowo do slownika\n2. Przetlumacz slowo w slowniku\n");
 		let choice = read_line() in
 		if choice = "1;;" then
 			(
