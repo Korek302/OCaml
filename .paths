@@ -1,2 +1,27 @@
 .
-E:\Program Files (x86)\OCaml\lib
+.git
+.git/hooks
+.git/info
+.git/logs
+.git/logs/refs
+.git/logs/refs/heads
+.git/logs/refs/remotes
+.git/logs/refs/remotes/origin
+.git/objects
+.git/objects/1d
+.git/objects/23
+.git/objects/37
+.git/objects/46
+.git/objects/4c
+.git/objects/99
+.git/objects/a9
+.git/objects/d9
+.git/objects/ec
+.git/objects/info
+.git/objects/pack
+.git/refs
+.git/refs/heads
+.git/refs/remotes
+.git/refs/remotes/origin
+.git/refs/tags
+C:\Program Files(x86)\OCaml\lib
